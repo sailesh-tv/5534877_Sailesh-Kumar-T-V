@@ -1,3 +1,3 @@
-\# 5534877\_Sailesh-Kumar-T-V
+# 5534877_Sailesh-Kumar-T-V
 
-!\[alt text](SDLC/GreatLearning.png)
+![alt text](SDLC/GreatLearning.png)
