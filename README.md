@@ -8,3 +8,5 @@ Linux Commands1
 ![alt text](LINUX/day1.png)
 Linux Commands2
 ![alt text](LINUX/day2.png)
+Introduction to C
+![alt text](C/Introduction to C.jpg)
